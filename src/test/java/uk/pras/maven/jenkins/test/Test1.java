@@ -24,8 +24,8 @@ public class Test1 {
 
     @Test
     public void test5(){
-      int x=10/0;
-        System.out.println("Running test 4");
+
+        System.out.println("Running test 5");
 
     }
 }
