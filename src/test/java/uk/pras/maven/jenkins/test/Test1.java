@@ -34,4 +34,10 @@ public class Test1 {
         System.out.println("Running test 6");
 
     }
+    @Test
+    public void test7(){
+
+        System.out.println("Running test 7");
+
+    }
 }
